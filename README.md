@@ -1,4 +1,4 @@
-Live link : 
+Live link :  https://anchalpanwar17.github.io/stopwatch/ 
 
 Snapshots of the project:
 ![image](https://github.com/user-attachments/assets/33217941-4f1b-4f16-9e2f-95b2e317ef95)
